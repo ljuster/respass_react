@@ -1,6 +1,5 @@
-![Logo of the project](./felix.gif)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-# Pacing Dashboard
+# Res Pass React
 > Additional information or tag line  
 
 [FPO] A brief description of your project, what it is used for.
@@ -29,11 +28,9 @@ Yarn will install all the dependencies for the app.
 * **Emotion** (instead of css modules) - https://github.com/emotion-js/emotion
 * **Redux Little Router** - https://github.com/FormidableLabs/redux-little-router
 * **Brunch** (instead of webpack) - https://brunch.io/
-* **Apollo Client** - https://github.com/apollographql/apollo-client
   
 #### Back End (Node)
 * **Express** - https://expressjs.com/
-* **Applo Server** - https://github.com/apollographql/apollo-server
 
 ### Prerequisites
 
