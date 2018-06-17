@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Account_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Atoms-–-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms" transform="translate(-730.000000, -2902.000000)" fill="#999999">
+            <g id="Icons" transform="translate(130.000000, 2622.000000)">
+                <g id="InputBox" transform="translate(400.000000, 110.000000)">
+                    <g id="Primary-Button">
+                        <g id="Main-Nav" transform="translate(0.000000, 170.000000)">
+                            <path d="M210,0 C204.4775,0 200,4.4775 200,10 C200,15.5225 204.4775,20 210,20 C215.5225,20 220,15.5225 220,10 C220,4.4775 215.5225,0 210,0 Z M210,18.3333333 C207.3975,18.3333333 205.071667,17.1325 203.5425,15.2583333 C203.758333,14.7683333 204.195,14.4291667 205.098333,14.22 C206.968333,13.7883333 208.814167,13.4025 207.925833,11.7658333 C205.296667,6.91583333 207.176667,4.16666667 210,4.16666667 C212.768333,4.16666667 214.695,6.81416667 212.074167,11.7658333 C211.211667,13.3925 212.990833,13.7791667 214.901667,14.22 C215.803333,14.4283333 216.243333,14.7658333 216.460833,15.2541667 C214.930833,17.1316667 212.604167,18.3333333 210,18.3333333 Z" id="Account_Icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

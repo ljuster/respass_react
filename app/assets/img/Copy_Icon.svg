@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Copy_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Atoms-–-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms" transform="translate(-530.000000, -3842.000000)" fill="#999999">
+            <g id="Icons" transform="translate(130.000000, 2622.000000)">
+                <g id="InputBox" transform="translate(400.000000, 110.000000)">
+                    <g id="Primary-Button">
+                        <g id="Side-Menu-Copy-2" transform="translate(0.000000, 990.000000)">
+                            <path d="M18.3333333,126.666667 L8.24,126.666667 C7.77166667,126.185 7.34,125.630833 6.9725,125 L13.3333333,125 L13.3333333,121.666667 L1.66666667,121.666667 L1.66666667,133.333333 L5,133.333333 L5,130.73 C5.5,131.530833 6.0725,132.249167 6.66666667,132.876667 L6.66666667,138.333333 L18.3333333,138.333333 L18.3333333,126.666667 Z M20,125 L20,140 L5,140 L5,135 L0,135 L0,120 L15,120 L15,125 L20,125 Z M12.6191667,131.036667 L13.3166667,129.166667 L15.565,133.8675 L10.8333333,135.9525 L11.5041667,134.094167 C11.5041667,134.094167 4.79166667,131.145833 5.08083333,125 C7.34333333,129.948333 12.6191667,131.036667 12.6191667,131.036667 Z" id="Copy_Icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

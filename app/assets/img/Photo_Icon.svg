@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="20px" viewBox="0 0 27 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Photo_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Atoms-–-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms" transform="translate(-630.000000, -3382.000000)" fill="#999999">
+            <g id="Icons" transform="translate(130.000000, 2622.000000)">
+                <g id="InputBox" transform="translate(400.000000, 110.000000)">
+                    <g id="Primary-Button">
+                        <g id="Media" transform="translate(0.000000, 650.000000)">
+                            <path d="M106.654676,17.7777778 L124.40048,17.7777778 L124.40048,6.66666667 L106.654676,6.66666667 L106.654676,17.7777778 Z M104.436451,20 L126.618705,20 L126.618705,4.44444444 L104.436451,4.44444444 L104.436451,20 Z M123.291367,2.22222222 L123.291367,0 L100,0 L100,16.6666667 L102.218225,16.6666667 L102.218225,2.22222222 L123.291367,2.22222222 Z M116.858513,10 L114.973022,12.8888889 L113.531175,11.1111111 L109.982014,15.5555556 L121.073141,15.5555556 L116.858513,10 Z M109.982014,10 C109.982014,9.38666667 110.478897,8.88888889 111.092236,8.88888889 C111.705576,8.88888889 112.20024,9.38666667 112.20024,10 C112.20024,10.6133333 111.705576,11.1111111 111.092236,11.1111111 C110.478897,11.1111111 109.982014,10.6133333 109.982014,10 Z" id="Photo_Icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

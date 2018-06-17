@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="20px" viewBox="0 0 24 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>List_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Atoms-–-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms" transform="translate(-630.000000, -3842.000000)" fill="#999999">
+            <g id="Icons" transform="translate(130.000000, 2622.000000)">
+                <g id="InputBox" transform="translate(400.000000, 110.000000)">
+                    <g id="Primary-Button">
+                        <g id="Side-Menu-Copy-2" transform="translate(0.000000, 990.000000)">
+                            <path d="M107,124 L124,124 L124,120 L107,120 L107,124 Z M100,124 L104,124 L104,120 L100,120 L100,124 Z M107,132 L124,132 L124,128 L107,128 L107,132 Z M100,132 L104,132 L104,128 L100,128 L100,132 Z M107,140 L124,140 L124,136 L107,136 L107,140 Z M100,140 L104,140 L104,136 L100,136 L100,140 Z" id="List_Icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Grid_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Atoms-–-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms" transform="translate(-730.000000, -3842.000000)" fill="#999999">
+            <g id="Icons" transform="translate(130.000000, 2622.000000)">
+                <g id="InputBox" transform="translate(400.000000, 110.000000)">
+                    <g id="Primary-Button">
+                        <g id="Side-Menu-Copy-2" transform="translate(0.000000, 990.000000)">
+                            <path d="M210.833333,129.166667 L220.000833,129.166667 L220.000833,119.999167 L210.833333,119.999167 L210.833333,129.166667 Z M200,129.166667 L209.166667,129.166667 L209.166667,119.999167 L200,119.999167 L200,129.166667 Z M210.833333,140 L220.000833,140 L220.000833,130.833333 L210.833333,130.833333 L210.833333,140 Z M200,140 L209.166667,140 L209.166667,130.833333 L200,130.833333 L200,140 Z" id="Grid_Icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

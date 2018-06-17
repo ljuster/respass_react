@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Play_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Atoms-–-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms" transform="translate(-1030.000000, -3722.000000)" fill="#999999">
+            <g id="Icons" transform="translate(130.000000, 2622.000000)">
+                <g id="InputBox" transform="translate(400.000000, 110.000000)">
+                    <g id="Primary-Button">
+                        <g id="Side-Menu-Copy-2" transform="translate(0.000000, 990.000000)">
+                            <path d="M507.5,14.1666667 L507.5,5.83333333 L515,10.1216667 L507.5,14.1666667 Z M510,0 C504.4775,0 500,4.4775 500,10 C500,15.5225 504.4775,20 510,20 C515.5225,20 520,15.5225 520,10 C520,4.4775 515.5225,0 510,0 Z M510,1.66666667 C514.595,1.66666667 518.333333,5.405 518.333333,10 C518.333333,14.595 514.595,18.3333333 510,18.3333333 C505.405,18.3333333 501.666667,14.595 501.666667,10 C501.666667,5.405 505.405,1.66666667 510,1.66666667 Z" id="Play_Icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>LinkedIn_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Atoms-–-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms" transform="translate(-1030.000000, -2732.000000)" fill="#999999">
+            <g id="Icons" transform="translate(130.000000, 2622.000000)">
+                <g id="InputBox" transform="translate(400.000000, 110.000000)">
+                    <g id="Primary-Button">
+                        <g id="Social-Icons">
+                            <path d="M519.308686,20 L515.510256,20 L515.510256,12.9045328 C515.510256,8.64016207 510.445682,8.96302861 510.445682,12.9045328 L510.445682,20 L506.647252,20 L506.647252,6.0724234 L510.445682,6.0724234 L510.445682,8.30716637 C512.214485,5.03291973 519.308686,4.79108635 519.308686,11.4421372 L519.308686,20 Z M502.215751,4.46695366 C500.992656,4.46695366 500,3.46670043 500,2.23347683 C500,1.00025323 500.992656,0 502.215751,0 C503.438845,0 504.431502,1.00025323 504.431502,2.23347683 C504.431502,3.46670043 503.440111,4.46695366 502.215751,4.46695366 Z M500.316536,20 L504.114966,20 L504.114966,6.0724234 L500.316536,6.0724234 L500.316536,20 Z" id="LinkedIn_Icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

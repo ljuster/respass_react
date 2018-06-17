@@ -1,0 +1,13 @@
+{
+  "env": {
+    "development": {
+      "presets": ["env", "react"],
+      "plugins": [
+        "inline-dotenv",
+        "transform-object-rest-spread",
+        "transform-export-extensions",
+        ["emotion", { "sourceMap": true, "autoLabel": true }]
+      ]
+    }
+  }
+}

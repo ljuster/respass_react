@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="15px" viewBox="0 0 26 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>View_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Atoms-–-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms" transform="translate(-1230.000000, -3722.000000)" fill="#999999" fill-rule="nonzero">
+            <g id="Icons" transform="translate(130.000000, 2622.000000)">
+                <g id="InputBox" transform="translate(400.000000, 110.000000)">
+                    <g id="Primary-Button">
+                        <g id="Side-Menu-Copy-2" transform="translate(0.000000, 990.000000)">
+                            <path d="M716.071429,7.5 C716.071429,9.27214286 714.629286,10.7142857 712.857143,10.7142857 C711.085,10.7142857 709.642857,9.27214286 709.642857,7.5 C709.642857,5.72785714 711.085,4.28571429 712.857143,4.28571429 C714.629286,4.28571429 716.071429,5.72785714 716.071429,7.5 Z M725.714286,7.01892857 C725.714286,7.01892857 721.158571,15 712.873214,15 C705.180357,15 700,7.01892857 700,7.01892857 C700,7.01892857 704.763571,0 712.873214,0 C721.116786,0 725.714286,7.01892857 725.714286,7.01892857 Z M718.214286,7.5 C718.214286,4.54178571 715.816429,2.14285714 712.857143,2.14285714 C709.898929,2.14285714 707.5,4.54178571 707.5,7.5 C707.5,10.4592857 709.898929,12.8571429 712.857143,12.8571429 C715.816429,12.8571429 718.214286,10.4592857 718.214286,7.5 Z" id="View_Icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

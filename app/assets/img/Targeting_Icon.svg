@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Targeting_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Atoms-–-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms" transform="translate(-630.000000, -3072.000000)" fill="#999999">
+            <g id="Icons" transform="translate(130.000000, 2622.000000)">
+                <g id="InputBox" transform="translate(400.000000, 110.000000)">
+                    <g id="Primary-Button">
+                        <g id="Side-Menu-Copy" transform="translate(0.000000, 340.000000)">
+                            <path d="M110,8 C108.895,8 108,8.896 108,10 C108,11.104 108.895,12 110,12 C111.105,12 112,11.104 112,10 C112,8.896 111.105,8 110,8 M110,4 C106.686,4 104,6.686 104,10 C104,13.314 106.686,16 110,16 C113.314,16 116,13.314 116,10 C116,6.686 113.314,4 110,4 M110,6 C112.206,6 114,7.794 114,10 C114,12.206 112.206,14 110,14 C107.794,14 106,12.206 106,10 C106,7.794 107.794,6 110,6 M110,0 C104.477,0 100,4.477 100,10 C100,15.523 104.477,20 110,20 C115.523,20 120,15.523 120,10 C120,4.477 115.523,0 110,0 M110,2 C114.411,2 118,5.589 118,10 C118,14.411 114.411,18 110,18 C105.589,18 102,14.411 102,10 C102,5.589 105.589,2 110,2" id="Targeting_Icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

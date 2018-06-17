@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>NewTab_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Atoms-–-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms" transform="translate(-1230.000000, -3842.000000)" fill="#999999">
+            <g id="Icons" transform="translate(130.000000, 2622.000000)">
+                <g id="InputBox" transform="translate(400.000000, 110.000000)">
+                    <g id="Primary-Button">
+                        <g id="Side-Menu-Copy-2" transform="translate(0.000000, 990.000000)">
+                            <path d="M711.829091,120 L715.497273,123.636364 L709.154545,130.063636 L711.725455,132.634545 L718.067273,126.206364 L721.818182,130 L721.818182,120 L711.829091,120 Z M700,122.727273 L700,140 L719.09,140 L719.09,130.909091 L717.272727,130.909091 L717.272727,138.181818 L701.818182,138.181818 L701.818182,124.544545 L710.908182,124.544545 L710.908182,122.727273 L700,122.727273 Z" id="NewTab_Icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

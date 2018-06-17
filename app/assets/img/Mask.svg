@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Atoms-–-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms" transform="translate(-1130.000000, -3842.000000)" fill="#999999" fill-rule="nonzero">
+            <g id="Icons" transform="translate(130.000000, 2622.000000)">
+                <g id="InputBox" transform="translate(400.000000, 110.000000)">
+                    <g id="Primary-Button">
+                        <g id="Side-Menu-Copy-2" transform="translate(0.000000, 990.000000)">
+                            <path d="M610,120 L600,130 L610,140 L620,130 L610,120 Z M609.166667,125 L610.833333,125 L610.833333,131.666667 L609.166667,131.666667 L609.166667,125 Z M610,135.208333 C609.425,135.208333 608.958333,134.741667 608.958333,134.166667 C608.958333,133.591667 609.425,133.125 610,133.125 C610.575,133.125 611.041667,133.591667 611.041667,134.166667 C611.041667,134.741667 610.575,135.208333 610,135.208333 Z" id="Mask"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

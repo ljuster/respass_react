@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>AdSets_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Atoms-–-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms" transform="translate(-630.000000, -3552.000000)" fill="#999999">
+            <g id="Icons" transform="translate(130.000000, 2622.000000)">
+                <g id="InputBox" transform="translate(400.000000, 110.000000)">
+                    <g id="Primary-Button">
+                        <g id="Structure" transform="translate(0.000000, 820.000000)">
+                            <path d="M100,0 L109.333333,0 L109.333333,9.33333333 L100,9.33333333 L100,0 Z M101.333333,1.33333333 L101.333333,6.66666667 L108,6.66666667 L108,1.33333333 L101.333333,1.33333333 Z M110.666667,0 L120,0 L120,9.33333333 L110.666667,9.33333333 L110.666667,0 Z M112,1.33333333 L112,6.66666667 L118.666667,6.66666667 L118.666667,1.33333333 L112,1.33333333 Z M100,10.6666667 L109.333333,10.6666667 L109.333333,20 L100,20 L100,10.6666667 Z M101.333333,12 L101.333333,17.3333333 L108,17.3333333 L108,12 L101.333333,12 Z M110.666667,10.6666667 L120,10.6666667 L120,20 L110.666667,20 L110.666667,10.6666667 Z M112,12 L112,17.3333333 L118.666667,17.3333333 L118.666667,12 L112,12 Z" id="AdSets_Icon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

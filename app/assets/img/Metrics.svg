@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="20px" viewBox="0 0 24 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Atoms-–-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms" transform="translate(-830.000000, -3072.000000)" fill="#999999">
+            <g id="Icons" transform="translate(130.000000, 2622.000000)">
+                <g id="InputBox" transform="translate(400.000000, 110.000000)">
+                    <g id="Primary-Button">
+                        <g id="Side-Menu-Copy" transform="translate(0.000000, 340.000000)">
+                            <path d="M317.752635,15.901813 L321.559603,15.901813 L321.559603,0 L317.752635,0 L317.752635,15.901813 Z M312.426856,15.901813 L316.233824,15.901813 L316.233824,3.9282153 L312.426856,3.9282153 L312.426856,15.901813 Z M307.101076,15.901813 L310.908045,15.901813 L310.908045,8.27195467 L307.101076,8.27195467 L307.101076,15.901813 Z M301.775297,15.901813 L305.58221,15.901813 L305.58221,12.0113314 L301.775297,12.0113314 L301.775297,15.901813 Z M300,20 L323.342776,20 L323.342776,17.4504249 L300,17.4504249 L300,20 Z" id="Page-1"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

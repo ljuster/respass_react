@@ -1,0 +1,1 @@
+export ConnectedThing from './ConnectedThing'
