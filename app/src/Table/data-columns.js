@@ -9,8 +9,8 @@ export default fromJS([
     sticky: true
   },
   {
-    name: 'Platform',
-    id: 'platform',
+    name: 'Location',
+    id: 'location',
     minWidth: '80px',
     sticky: false
   },
